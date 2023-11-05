@@ -1,1 +1,1 @@
-# recap-project
+Clone to ec2-user
